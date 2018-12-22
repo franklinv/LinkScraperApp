@@ -1,6 +1,6 @@
 # LinkScraperApp
 A Nodejs script that parses a given url and prints only the internal hyperlinks of a web page and subpages.
-Uses request module to load the pages and cheerio to load the html pages and traverse the links.
+Uses request module to load the pages and cheerio module to load the html pages and traverse the links.
 
 Steps to execute the Node.js program:
 
