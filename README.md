@@ -1,5 +1,5 @@
 # LinkScraperApp
-A Nodejs script that parses a given url and prints  only the internal hyperlinks of a web page and subpages.
+A Nodejs script that parses a given url and prints only the internal hyperlinks of a web page and subpages.
 
 
 Steps to execute the Node.js program:
@@ -11,6 +11,10 @@ Steps to execute the Node.js program:
 3.Execute the program at the command line as follows:
   "node index Url CountOfLnksToBeDisplayed"
   
+  The Url is passed as the 2nd parameter as above.
+  
+  The amount of links to be gathered is passed as the 3rd parameter to the script.
+  
 4.Validation has been done so that the user entera proper URL and a proper number.
 
 5.Appropriate error message is displayed if the User enter an invalid Url or number.
@@ -19,4 +23,3 @@ Comments have been added appropriately.
 
 Test Data:
   node index https://www.rediff.com 25
-  
