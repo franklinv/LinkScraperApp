@@ -9,7 +9,7 @@ Steps to execute the Node.js program:
 2.Install the modules chherio and request in the same path.
 
 3.Execute the program at the command line as follows:
-  node index <valid url> <number of links to be retrived>
+  node index valid url CountOfLnksToBeDisplayed
   
 4.Validation has been done so that the user entera proper URL and a proper number.
 
