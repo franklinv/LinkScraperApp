@@ -14,7 +14,8 @@ Steps to execute the Node.js program:
 4.Validation has been done so that the user entera proper URL and a proper number.
 
 5.Appropriate error message is displayed if the User enter an invalid Url or number.
-  
+
+Comments have been added appropriately
 Test Data:
   node index https://www.rediff.com 25
   
