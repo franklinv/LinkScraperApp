@@ -15,7 +15,7 @@ Steps to execute the Node.js program:
   
   The amount of links to be gathered is passed as the 3rd parameter to the script.
   
-4.Validation has been done so that the user enters a valid URL and a valid number greate than 0.
+4.Validation has been done so that the user enters a valid URL and a valid number greater than 0.
 
 5.Appropriate error message is displayed if the User enter an invalid Url or number.
 
